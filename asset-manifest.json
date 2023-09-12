@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "./static/css/main.1db473a3.css",
+    "main.js": "./static/js/main.2bfbdc77.js",
+    "static/media/contactBcg.jpeg": "./static/media/contactBcg.74cee641da645daacb66.jpeg",
+    "static/media/defaultBcg.jpeg": "./static/media/defaultBcg.93bde64fa4a1b6ce6911.jpeg",
+    "static/media/mainBcg.jpeg": "./static/media/mainBcg.2e4ed4d7087cc8d67605.jpeg",
+    "static/media/storeBcg.jpeg": "./static/media/storeBcg.bd09ba09c79aa88c1acb.jpeg",
+    "static/media/singleProductBcg.jpeg": "./static/media/singleProductBcg.7eb87f333e1a1aa482cb.jpeg",
+    "static/media/productsBcg.jpeg": "./static/media/productsBcg.7b9390372ec5a7e87831.jpeg",
+    "static/media/aboutBcg.jpeg": "./static/media/aboutBcg.6f7da3e0a93d08905047.jpeg",
+    "static/media/logo.svg": "./static/media/logo.6244427fb831a2dee21c38498cb920e8.svg",
+    "index.html": "./index.html",
+    "main.1db473a3.css.map": "./static/css/main.1db473a3.css.map",
+    "main.2bfbdc77.js.map": "./static/js/main.2bfbdc77.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1db473a3.css",
+    "static/js/main.2bfbdc77.js"
+  ]
+}
